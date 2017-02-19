@@ -1,5 +1,5 @@
 {
-  "name": "mysite",
+  "name": "AngularElectron",
   "version": "1.0.0",
   "description": "My gulp site",
   "main": "src/main.js",
@@ -41,6 +41,7 @@
     "jshint-stylish": "^2.2.1",
     "npm-run-all": "^4.0.1",
     "q": "^1.4.1",
+    "rcedit": "^0.7.0",
     "yargs": "^6.6.0"
   },
   "dependencies": {}

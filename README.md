@@ -1,10 +1,12 @@
-# Gulp build with Angular JS
+# Angular JS with Electron
 
 ## Install 
 
 ```
 npm i
-gulp or npm run dev
+gulp or npm run dev // run angular app
+npm run electron // run electron dev mode
+npm start // run angular with electron
 // http://localhost:3000
 ```
 
@@ -48,7 +50,15 @@ gulp component --name mydemo
 - fonts folder in 2 places
 	1. inside `scss` folder so it can refer fonts in .scss file
 	2. inside root so can be referenced in css with same path as above
-	
+
+## Todo
+
+```
+gulp build-electron
+
+Have error need to be fixed "Error: rcedit.exe failed with exit code 1. Fatal error: Unable to load file"
+```
+
 
 
 
